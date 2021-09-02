@@ -1,7 +1,9 @@
 # Todo list
 
 ## Overview
-A todo list app created with the react framework and bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A todo list app created with the react framework.
+
+[Test app here](https://sashaluhr.netlify.app/todo/)
 
 ## Features
 - Add a new todo item
@@ -10,11 +12,11 @@ A todo list app created with the react framework and bootstrapped with [Create R
 - Delete done item
 
 ## Run app
-### Install dependecies
+#### Install dependecies
 ```
 npm install
 ```
-### Run app
+#### Run app
 ```
 npm start
 ```
